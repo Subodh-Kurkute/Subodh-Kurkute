@@ -43,5 +43,6 @@ now I build ML applications that actually ship.
 `English — Fluent` `German — Professional working proficiency` `Marathi/Hindi — Native`
 
 ---
+### Connect with me 
 
 [LinkedIn](https://linkedin.com/in/subodh-kurkute)
