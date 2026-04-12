@@ -37,7 +37,7 @@ now I build ML applications that actually ship.
 ### Background
 - 🏭 7 years German Automotive V&V 
 - 🎓 M.Sc. Electrical Engineering · Universität Rostock
-- 📄 IEEE Radar Conference 2022 publication
+- 📄 [IEEE Radar Conference 2022 publication](https://ieeexplore.ieee.org/document/9764268)
 
 ### Languages
 `English — Fluent` `German — Professional working proficiency` `Marathi/Hindi — Native`
