@@ -12,7 +12,7 @@ now I build ML applications that actually ship.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [ ASPICE RAG Chatbot](https://github.com/Subodh-Kurkute/aspice-rag-chatbot) | RAG chatbot over ASPICE PAM 4.0 | RAG. LLM . ChromaDB . Streamlit . Docker . AWS EC2
+| [ ASPICE RAG Chatbot](https://github.com/Subodh-Kurkute/aspice-rag-chatbot) | RAG chatbot over ASPICE PAM 4.0 | RAG . LLM . ChromaDB . Streamlit . Docker . AWS EC2
 | [ Wine Quality ML API](https://github.com/Subodh-Kurkute/ml-wine-quality-api) | End-to-end pipeline → production API with CI/CD | FastAPI · scikit-learn · Docker · GitHub Actions |
 | [ Churn Prediction](https://github.com/Subodh-Kurkute/customer-churn-prediction-ml) | Business-focused classification · ROC-AUC tradeoff analysis | scikit-learn · Feature Engineering |
 
