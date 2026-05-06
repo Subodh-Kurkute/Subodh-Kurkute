@@ -8,14 +8,14 @@ now I build ML applications that actually ship.
 
 ---
 
-###  Projects
-
+### Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [ ASPICE RAG Chatbot](https://github.com/Subodh-Kurkute/aspice-rag-chatbot) | RAG chatbot over ASPICE PAM 4.0 | RAG . LLM . ChromaDB . Streamlit . Docker . AWS EC2
-| [ Wine Quality ML API](https://github.com/Subodh-Kurkute/ml-wine-quality-api) | End-to-end pipeline → production API with CI/CD | FastAPI · scikit-learn · Docker · GitHub Actions |
-| [ Churn Prediction](https://github.com/Subodh-Kurkute/customer-churn-prediction-ml) | Business-focused classification · ROC-AUC tradeoff analysis | scikit-learn · Feature Engineering |
-
+| [Insurance Compliance Agent](https://github.com/Subodh-Kurkute/insurance-agent) | LangGraph ReAct agent for VVG/VAG/BaFin compliance · bilingual retrieval · structured verdicts | LangGraph · GPT-4o-mini · Pinecone · Tavily · Docker · AWS EC2 |
+| [ASPICE RAG Chatbot](https://github.com/Subodh-Kurkute/aspice-rag-chatbot) | RAG chatbot over ASPICE PAM 4.0 | RAG · LLM · ChromaDB · Streamlit · Docker · AWS EC2 |
+| [Wine Quality ML API](https://github.com/Subodh-Kurkute/ml-wine-quality-api) | End-to-end pipeline → production API with CI/CD | FastAPI · scikit-learn · Docker · GitHub Actions |
+| [House Price Prediction](https://github.com/Subodh-Kurkute/house-price-prediction-linear-models) | Regression with Elastic Net · feature engineering · model comparison | scikit-learn · Pandas · Matplotlib |
+| [Churn Prediction](https://github.com/Subodh-Kurkute/customer-churn-prediction-ml) | Business-focused classification · ROC-AUC tradeoff analysis | scikit-learn · Feature Engineering |
 ---
 
 ### Tech-Stack
