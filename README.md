@@ -2,9 +2,7 @@
 
 **AI/ML Engineer · Automotive AI · Bavaria, Germany**
 
-I spent 7 years validating software and system in automotive domain —
-now I build ML applications that actually ship.
-
+I spent 7 years validating software and system in automotive domain — now I build End to end AI applications- that are useful
 
 ---
 
